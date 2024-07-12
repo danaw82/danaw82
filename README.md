@@ -4,7 +4,7 @@
 - 💞️ I’m not starting to collaborate on anything quite yet. As I am still rather new to this.
 - 📫 If anyone would like to reach me I can be contacted at dwildy82@gmail.com.
 
--   <div align="center">
+    <div align="center">
         <img alt="Visitor Stats" 
             src="https://widgetbite.com/stats/<github-danaw82>"/>  
     </div>
